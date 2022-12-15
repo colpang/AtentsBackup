@@ -354,9 +354,11 @@
 "Assets/Script/Bounds.cs"
 "Assets/Script/Character2D.cs"
 "Assets/Script/ColliderGenerator.cs"
-"Assets/Script/ColliderGenerator_Menu.cs"
 "Assets/Script/CollisionManager.cs"
+"Assets/Script/LamdaExample_3.cs"
 "Assets/Script/Player.cs"
+"Assets/Script/Skill.cs"
+"Assets/Script/TableParser.cs"
 -langversion:9.0
 
 /deterministic
