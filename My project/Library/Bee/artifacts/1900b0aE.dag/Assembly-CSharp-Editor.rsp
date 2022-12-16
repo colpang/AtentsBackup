@@ -370,7 +370,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Editor/ColliderGenerator_Menu.cs"
-"Assets/Editor/Export.cs"
 -langversion:9.0
 
 /deterministic

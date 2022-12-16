@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bounds : MonoBehaviour
 {
-    public BoxCollider collider;
+    /*public BoxCollider collider;
     public BoxCollider other;
     // Start is called before the first frame update
     void Start()
@@ -19,5 +19,5 @@ public class Bounds : MonoBehaviour
         {
             Debug.Log(other.gameObject.name+"°ú Ãæµ¹");
         }
-    }
+    }*/
 }
